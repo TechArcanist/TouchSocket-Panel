@@ -24,6 +24,12 @@
 
 The system uses two touch sensors, each responsible for controlling one socket. The ESP32 microcontroller processes the touch inputs and triggers the relay to turn the sockets on or off. A voltage converter powers the ESP32 by providing a stable 5V supply. This makes it easy to control devices with just a touch!
 
+![WhatsApp Image 2024-03-09 at 16 34](https://github.com/user-attachments/assets/5e075ca8-605e-473e-9b95-d88441c1a70d)
+![WhatsApp Image 2024-03-09 at 16 34 (1)](https://github.com/user-attachments/assets/191411eb-5472-4c93-8e17-d6f1924678b7)
+![WhatsApp Image 2024-03-09 at 16 36](https://github.com/user-attachments/assets/1143df0b-6f4d-48df-9d19-707b046182d1)
+![WhatsApp Image 2024-03-10 at 15 11](https://github.com/user-attachments/assets/5e123f8c-d211-43af-bf67-ec0d73f94257)
+![WhatsApp Image 2024-03-10 at 23 43](https://github.com/user-attachments/assets/b1458698-4091-4544-a1c4-882cff23c61f)
+
 ## Installation
 
 Clone the repository:
@@ -67,12 +73,6 @@ https://github.com/user-attachments/assets/00599485-4e84-4ba5-8941-9cc0484d6af4
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;" />
 </h1>
 
-# TouchSocket-Panel
-![WhatsApp Image 2024-03-09 at 16 34 20_ad72e615](https://github.com/user-attachments/assets/391199ea-d592-43e8-ad8b-97f9985d6a8b)
-![WhatsApp Image 2024-03-09 at 16 34 20_fba37183](https://github.com/user-attachments/assets/a8df37bd-1acd-441d-835c-3a8d14490dce)
-![WhatsApp Image 2024-03-10 at 15 11 59_4a8b9120](https://github.com/user-attachments/assets/13e1b983-afbc-4c22-b3aa-33da95aed69b)
-![WhatsApp Image 2024-03-09 at 16 36 30_2c03d0be](https://github.com/user-attachments/assets/97a73814-b336-4411-88bc-18fb2cc0c8bd)
-![WhatsApp Image 2024-03-10 at 23 43 17_5e04bca1](https://github.com/user-attachments/assets/75eaad3f-70f7-49f5-b94d-adde3e10c8c6)
 
 
 https://github.com/user-attachments/assets/00599485-4e84-4ba5-8941-9cc0484d6af4
