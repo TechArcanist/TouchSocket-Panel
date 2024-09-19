@@ -50,13 +50,10 @@ Clone the repository:
 - **Touch Control:** Activate each socket by tapping the corresponding touch sensor.
 - **Power Management:** The voltage converter provides stable power to the ESP32, ensuring smooth operation.
 
-## Circuit Diagram
-
-*Include your circuit diagram image here for better understanding.*
-
 ## Video Demonstration
 
-https://github.com/user-attachments/assets/00599485-4e84-4ba5-8941-9cc0484d6af4
+https://github.com/user-attachments/assets/a29c74ec-0e9d-4d6d-8717-5106cc110c9d
+
 ## Developed by
 
 **Lavitra Sahu**. Feel free to contribute and improve the project!
